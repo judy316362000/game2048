@@ -1,0 +1,2 @@
+ git clone --depth=50 --branch=v2.08 https://github.com/uberspot/2048-android.git uberspot/2048-android
+git submodule update --init --recursive
