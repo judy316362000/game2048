@@ -1,4 +1,4 @@
-git clone --recursive https://github.com/uberspot/2048-android.git
+git clone --recursive https://github.com/gabrielecirulli/2048.git
 cd 2048-android/
 git submodule update --init --recursive
 ./gradlew build
